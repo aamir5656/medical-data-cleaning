@@ -1,0 +1,101 @@
+Age,Gender,Blood_Pressure,Cholesterol,BMI,Smoker,Diagnosis,Admission_Date,Age_Group
+55.0,Female,120.0,220.0,35.4,Yes,Heart Disease,2023-12-27,Adult
+65.0,Male,150.0,180.0,27.8,Yes,Unknown,2023-01-01,Old
+45.0,Male,120.0,220.0,22.5,No,Unknown,2023-12-14,Adult
+65.0,Male,140.0,180.0,35.4,No,Unknown,2023-07-09,Old
+65.0,Male,120.0,300.0,40.1,Yes,Unknown,2023-07-10,Old
+35.0,Female,130.0,200.0,35.4,No,Heart Disease,2023-11-08,Young
+45.0,Male,150.0,220.0,22.5,No,Unknown,2023-04-27,Adult
+45.0,Male,150.0,200.0,35.4,No,Unknown,2023-05-14,Adult
+45.0,Male,140.0,200.0,35.4,No,Diabetes,2023-02-27,Adult
+65.0,Male,130.0,220.0,35.4,No,Diabetes,2023-02-13,Old
+55.0,Male,140.0,220.0,30.0,Yes,Unknown,2023-06-22,Adult
+45.0,Male,120.0,300.0,35.4,No,Unknown,2023-06-09,Adult
+55.0,Male,160.0,180.0,27.8,Yes,Diabetes,2023-06-22,Adult
+65.0,Female,120.0,250.0,27.8,Yes,Unknown,2023-11-13,Old
+35.0,Male,120.0,180.0,35.4,Yes,Unknown,2023-10-30,Young
+55.0,Male,140.0,250.0,30.0,No,Diabetes,2023-05-29,Adult
+55.0,Male,120.0,180.0,22.5,No,Unknown,2023-03-21,Adult
+55.0,Female,130.0,220.0,27.8,Yes,Diabetes,2023-08-01,Adult
+35.0,Male,130.0,300.0,35.4,No,Unknown,2023-07-22,Young
+55.0,Female,150.0,250.0,40.1,Yes,Unknown,2023-09-09,Adult
+65.0,Male,140.0,220.0,35.4,No,Diabetes,2023-08-17,Old
+25.0,Male,160.0,180.0,27.8,No,Unknown,2023-06-13,Young
+55.0,Male,120.0,180.0,27.8,No,Diabetes,2023-08-15,Adult
+35.0,Female,120.0,250.0,35.4,Yes,Diabetes,2023-05-27,Young
+55.0,Male,140.0,220.0,22.5,No,Heart Disease,2023-01-20,Adult
+65.0,Female,140.0,220.0,35.4,Yes,Heart Disease,2023-02-16,Old
+55.0,Male,130.0,220.0,27.8,Yes,Unknown,2023-08-21,Adult
+25.0,Male,160.0,220.0,35.4,Yes,Heart Disease,2023-11-01,Young
+25.0,Male,150.0,220.0,35.4,Yes,Unknown,2023-01-14,Young
+45.0,Male,130.0,220.0,30.0,Yes,Heart Disease,2023-05-23,Adult
+45.0,Male,140.0,220.0,35.4,Yes,Diabetes,2023-01-01,Adult
+35.0,Female,150.0,220.0,40.1,No,Unknown,2023-02-23,Young
+55.0,Male,140.0,300.0,22.5,Yes,Unknown,2023-09-16,Adult
+55.0,Male,140.0,220.0,40.1,Yes,Diabetes,2023-05-24,Adult
+55.0,Male,120.0,220.0,35.4,Yes,Unknown,2023-01-12,Adult
+55.0,Female,140.0,220.0,35.4,No,Unknown,2023-11-26,Adult
+55.0,Male,160.0,220.0,35.4,Yes,Heart Disease,2023-08-12,Adult
+45.0,Male,150.0,200.0,40.1,No,Unknown,2023-09-29,Adult
+55.0,Male,130.0,300.0,35.4,Yes,Unknown,2023-12-24,Adult
+55.0,Male,140.0,220.0,35.4,Yes,Diabetes,2023-06-05,Adult
+25.0,Male,140.0,180.0,40.1,No,Heart Disease,2023-01-08,Young
+45.0,Male,140.0,250.0,35.4,No,Heart Disease,2023-05-02,Adult
+65.0,Female,120.0,180.0,35.4,Yes,Unknown,2023-12-14,Old
+45.0,Female,120.0,300.0,30.0,Yes,Diabetes,2023-06-13,Adult
+65.0,Male,150.0,250.0,35.4,No,Diabetes,2023-03-31,Old
+25.0,Male,140.0,300.0,40.1,Yes,Heart Disease,2023-05-16,Young
+35.0,Female,140.0,220.0,27.8,Yes,Unknown,2023-07-05,Young
+55.0,Female,160.0,250.0,35.4,No,Heart Disease,2023-11-12,Adult
+25.0,Female,140.0,220.0,27.8,Yes,Diabetes,2023-06-27,Young
+55.0,Male,150.0,180.0,35.4,No,Unknown,2023-01-28,Adult
+55.0,Female,150.0,180.0,30.0,No,Heart Disease,2023-08-08,Adult
+35.0,Female,140.0,250.0,22.5,No,Diabetes,2023-12-23,Young
+35.0,Male,150.0,250.0,30.0,No,Heart Disease,2023-02-10,Young
+25.0,Female,140.0,220.0,35.4,Yes,Unknown,2023-08-16,Young
+35.0,Female,130.0,300.0,27.8,Yes,Heart Disease,2023-07-11,Young
+65.0,Female,140.0,220.0,27.8,No,Heart Disease,2023-05-25,Old
+35.0,Male,140.0,300.0,40.1,No,Diabetes,2023-07-20,Young
+55.0,Male,150.0,220.0,27.8,Yes,Diabetes,2023-07-31,Adult
+55.0,Male,150.0,220.0,40.1,No,Diabetes,2023-08-08,Adult
+55.0,Female,120.0,250.0,35.4,Yes,Heart Disease,2023-08-28,Adult
+55.0,Male,120.0,180.0,22.5,Yes,Unknown,2023-02-15,Adult
+65.0,Male,130.0,300.0,35.4,Yes,Unknown,2023-02-04,Old
+45.0,Female,120.0,300.0,40.1,No,Unknown,2023-09-10,Adult
+55.0,Male,140.0,180.0,22.5,Yes,Diabetes,2023-03-23,Adult
+25.0,Male,150.0,220.0,27.8,Yes,Diabetes,2023-09-13,Young
+55.0,Female,120.0,300.0,27.8,Yes,Heart Disease,2023-07-16,Adult
+35.0,Male,120.0,220.0,22.5,Yes,Unknown,2023-10-30,Young
+55.0,Female,130.0,250.0,27.8,No,Diabetes,2023-01-10,Adult
+35.0,Female,140.0,180.0,35.4,No,Unknown,2023-11-08,Young
+55.0,Female,130.0,250.0,35.4,Yes,Unknown,2023-10-13,Adult
+55.0,Female,140.0,300.0,22.5,Yes,Diabetes,2023-08-30,Adult
+55.0,Female,150.0,300.0,40.1,Yes,Diabetes,2023-09-08,Adult
+35.0,Male,130.0,180.0,40.1,Yes,Unknown,2023-12-31,Young
+55.0,Male,120.0,220.0,22.5,Yes,Unknown,2023-01-05,Adult
+55.0,Male,150.0,200.0,40.1,No,Heart Disease,2023-04-29,Adult
+65.0,Male,150.0,180.0,40.1,No,Unknown,2023-10-16,Old
+35.0,Female,120.0,200.0,35.4,Yes,Unknown,2023-03-06,Young
+35.0,Male,130.0,220.0,40.1,Yes,Unknown,2023-05-26,Young
+55.0,Male,120.0,200.0,30.0,No,Diabetes,2023-08-12,Adult
+35.0,Male,140.0,220.0,35.4,Yes,Unknown,2023-08-27,Young
+35.0,Male,150.0,220.0,27.8,Yes,Heart Disease,2023-06-26,Young
+55.0,Male,160.0,200.0,30.0,Yes,Unknown,2023-09-24,Adult
+55.0,Male,160.0,220.0,40.1,Yes,Unknown,2023-12-07,Adult
+55.0,Male,140.0,200.0,35.4,Yes,Heart Disease,2023-10-09,Adult
+55.0,Male,120.0,220.0,22.5,Yes,Heart Disease,2023-03-04,Adult
+55.0,Female,120.0,200.0,40.1,Yes,Unknown,2023-08-05,Adult
+25.0,Female,140.0,200.0,35.4,No,Unknown,2023-12-08,Young
+55.0,Male,140.0,200.0,35.4,Yes,Heart Disease,2023-11-11,Adult
+65.0,Male,140.0,180.0,40.1,Yes,Unknown,2023-10-10,Old
+65.0,Male,150.0,180.0,22.5,Yes,Diabetes,2023-06-26,Old
+35.0,Male,140.0,180.0,35.4,Yes,Diabetes,2023-04-08,Young
+65.0,Male,120.0,220.0,35.4,Yes,Heart Disease,2023-04-15,Old
+35.0,Male,150.0,220.0,35.4,No,Unknown,2023-04-09,Young
+25.0,Female,140.0,300.0,35.4,No,Heart Disease,2023-11-07,Young
+55.0,Male,120.0,200.0,40.1,Yes,Heart Disease,2023-01-06,Adult
+55.0,Male,150.0,200.0,35.4,Yes,Unknown,2023-07-16,Adult
+55.0,Male,140.0,220.0,27.8,Yes,Unknown,2023-12-17,Adult
+65.0,Female,150.0,200.0,27.8,No,Unknown,2023-05-13,Old
+25.0,Male,140.0,180.0,40.1,Yes,Diabetes,2023-12-24,Young
+65.0,Male,140.0,300.0,35.4,No,Unknown,2023-09-16,Old
