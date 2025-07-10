@@ -27,6 +27,14 @@ This project involves working with a real-world medical dataset. The primary foc
 1. Download or clone this repository.
 2. Open the `Analysis.ipynb` file using Jupyter Notebook.
 3. Make sure all three files are in the same folder for the notebook to run properly.
+---
+
+## ▶️ Run on Kaggle
+
+You can also run the full notebook on Kaggle without downloading anything:  
+🔗 [Click here to open on Kaggle](https://www.kaggle.com/aamir5659/medical-clean-dataset)
+
+---
 
 ## 👨‍💻 Author
 
